@@ -268,3 +268,17 @@ font-size: 0.8rem;
     padding-right: 20px;
     align-content: center;
 }
+.control{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    
+}
+.control .sub i{
+    
+    margin-right: 10px;
+}
+
+.control i{
+    margin-left: 5px;
+}
